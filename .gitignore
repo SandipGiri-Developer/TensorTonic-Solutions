@@ -1,0 +1,82 @@
+# README
+README.md
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+coverage.xml
+htmlcov/
+.tox/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Ruff
+.ruff_cache/
+
+# Pytype
+.pytype/
+
+# Build artifacts
+*.out
+*.spec
+
+# Temporary files
+tmp/
+temp/
+*.tmp
