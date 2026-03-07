@@ -16,7 +16,6 @@ Each implementation focuses on:
 * Mathematical understanding
 * Clean and minimal code
 * Explicit implementation of algorithms
-* Reproducibility and experimentation
 
 ---
 
